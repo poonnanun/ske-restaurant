@@ -1,6 +1,6 @@
 #  To make comment type (#) then 2 space.
 #  Comment won't appear in menu.
-#  Fomat of menu is name;price .
+#  Format of menu is name;price .
 pizza;250
 chicken;100
 fried rice;40
